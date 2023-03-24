@@ -1,4 +1,4 @@
-# Practica 3.1. Conexion Wifi
+# Practica 3.1. Conexión Wifi
 ## **Introducción**
 En esta práctica se realiza una conexión wifi en la ESP32 para la cual, tendremos que generar una página web, mediante un web server. 
 
